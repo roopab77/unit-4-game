@@ -1,0 +1,39 @@
+body{
+	background: url("../images/background2.jpg") ;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron{
+	text-align: center;
+	margin-top: 10px;
+}
+.panel-heading{
+  //border-bottom-style: solid;
+}
+#panelStyle{
+	float:left;
+	margin: 10px 20px 10px 0px;
+}
+
+.JewelStyle
+{
+  height: 75px;
+border-style: inset;
+}
+.panel
+{
+  padding: 5px;
+  border-style: solid;
+}
+
+.panel-body{
+  border:5px;
+  font-size: large;
+}
+.column
+  {
+    padding: 20px;
+border-style: solid;
+  }
