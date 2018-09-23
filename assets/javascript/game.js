@@ -5,6 +5,13 @@
 //or say you lose
 //and then reset the random number and random number for crystals too
 
+//Give a random number at the start of the game
+//Give a random number to each of the crystal
+//on click of each crystal add the value of the crystal and display on html page
+//if the random number generated on the page and the sum is equal then say you win
+//or say you lose
+//and then reset the random number and random number for crystals too
+
 var wins = 0;
 var loses = 0;
 var crystal1 = 0;
